@@ -1,8 +1,9 @@
 .thumbnail_card {
-    height: 460px;
+    height: 390px;
 }
-.w-460 {
-    width: 460px;
+.thumbnail_card,
+.card-width {
+    width: 390px;
 }
 .w-300 {
     width: 300px;

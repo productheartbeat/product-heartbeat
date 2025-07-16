@@ -12,6 +12,16 @@
     <atom:link href="//localhost:1313/tags/humor/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Lesson 1: It Ain&#39;t Easy</title>
+      <link>//localhost:1313/humor/it-aint-easy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>dmoon@productheartbeat.com (Price Maxwell)</author>
+      <guid>//localhost:1313/humor/it-aint-easy/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/humor/it-aint-easy/featured.png" />
+    </item>
+    
+    <item>
       <title>Lesson 2: Be The CEO Of Your Product</title>
       <link>//localhost:1313/humor/ceo-of-your-product/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -32,13 +42,123 @@
     </item>
     
     <item>
-      <title>Product Management Made Easy. Lesson 1: It Ain&#39;t Easy</title>
-      <link>//localhost:1313/humor/it-aint-easy/</link>
+      <title>Lesson 4: Buzzwords</title>
+      <link>//localhost:1313/humor/buzzwords/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>dmoon@productheartbeat.com (Price Maxwell)</author>
-      <guid>//localhost:1313/humor/it-aint-easy/</guid>
+      <guid>//localhost:1313/humor/buzzwords/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/humor/it-aint-easy/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/humor/buzzwords/featured.png" />
+    </item>
+    
+    <item>
+      <title>Lesson 5: Working With Engineers</title>
+      <link>//localhost:1313/humor/working-with-engineers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>dmoon@productheartbeat.com (Price Maxwell)</author>
+      <guid>//localhost:1313/humor/working-with-engineers/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/humor/working-with-engineers/featured.png" />
+    </item>
+    
+    <item>
+      <title>Lesson 6: Steve Jobs</title>
+      <link>//localhost:1313/humor/steve-jobs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>dmoon@productheartbeat.com (Price Maxwell)</author>
+      <guid>//localhost:1313/humor/steve-jobs/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/humor/steve-jobs/featured.png" />
+    </item>
+    
+    <item>
+      <title>Lesson 7: Quality Assurance</title>
+      <link>//localhost:1313/humor/quality-assurance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>dmoon@productheartbeat.com (Price Maxwell)</author>
+      <guid>//localhost:1313/humor/quality-assurance/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/humor/quality-assurance/featured.png" />
+    </item>
+    
+    <item>
+      <title>Lesson 8: Roadmaps</title>
+      <link>//localhost:1313/humor/roadmaps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>dmoon@productheartbeat.com (Price Maxwell)</author>
+      <guid>//localhost:1313/humor/roadmaps/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/humor/roadmaps/featured.png" />
+    </item>
+    
+    <item>
+      <title>Lesson 9: The Cry Principle</title>
+      <link>//localhost:1313/humor/the-cry-principle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>dmoon@productheartbeat.com (Price Maxwell)</author>
+      <guid>//localhost:1313/humor/the-cry-principle/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/humor/the-cry-principle/featured.png" />
+    </item>
+    
+    <item>
+      <title>Lesson 10: Scorecards</title>
+      <link>//localhost:1313/humor/scorecards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>dmoon@productheartbeat.com (Price Maxwell)</author>
+      <guid>//localhost:1313/humor/scorecards/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/humor/scorecards/featured.png" />
+    </item>
+    
+    <item>
+      <title>Lesson 11: Product Demos</title>
+      <link>//localhost:1313/humor/product-demos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>dmoon@productheartbeat.com (Price Maxwell)</author>
+      <guid>//localhost:1313/humor/product-demos/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/humor/product-demos/featured.png" />
+    </item>
+    
+    <item>
+      <title>Lesson 12: Scope Creep</title>
+      <link>//localhost:1313/humor/scope-creep/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>dmoon@productheartbeat.com (Price Maxwell)</author>
+      <guid>//localhost:1313/humor/scope-creep/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/humor/scope-creep/featured.png" />
+    </item>
+    
+    <item>
+      <title>Lesson 13: Just Say No</title>
+      <link>//localhost:1313/humor/just-say-no/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>dmoon@productheartbeat.com (Price Maxwell)</author>
+      <guid>//localhost:1313/humor/just-say-no/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/humor/just-say-no/featured.png" />
+    </item>
+    
+    <item>
+      <title>Lesson 14: Full Stack Developer</title>
+      <link>//localhost:1313/humor/full-stack-developer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>dmoon@productheartbeat.com (Price Maxwell)</author>
+      <guid>//localhost:1313/humor/full-stack-developer/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/humor/full-stack-developer/featured.png" />
+    </item>
+    
+    <item>
+      <title>Lesson 14: Full Stack Developer</title>
+      <link>//localhost:1313/humor/full-stack-developer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>dmoon@productheartbeat.com (Price Maxwell)</author>
+      <guid>//localhost:1313/humor/full-stack-developer/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/humor/full-stack-developer/featured.png" />
     </item>
     
   </channel>
