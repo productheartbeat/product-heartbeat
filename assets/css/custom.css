@@ -1,0 +1,31 @@
+.thumbnail_card {
+    height: 460px;
+}
+.w-460 {
+    width: 460px;
+}
+.w-300 {
+    width: 300px;
+}
+.thumbnail_card_related {
+    height: 300px;
+}
+.single_hero_round {
+    max-width: 768px;
+    max-height: 768px;
+    width: 100%;
+}
+.single_hero_round.single-image-sm {
+    max-width: 100px;
+    max-height: 100px;
+    width: 100%;
+}
+
+.article-content p {
+    line-height: 1.75;
+    font-weight: 200;
+    letter-spacing: 1px;
+}
+.article-content h4 {
+    margin-bottom: 30px;
+}

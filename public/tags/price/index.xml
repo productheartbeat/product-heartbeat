@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Price on Product Heartbeat</title>
+    <link>//localhost:1313/tags/price/</link>
+    <description>Recent content in Price on Product Heartbeat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>dmoon@productheartbeat.com (Price Maxwell)</managingEditor>
+    <webMaster>dmoon@productheartbeat.com (Price Maxwell)</webMaster>
+    <copyright>© 2025 Price Maxwell</copyright>
+    <lastBuildDate>Thu, 29 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/price/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Not A Boss</title>
+      <link>//localhost:1313/comics/1-not-a-boss/</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <author>dmoon@productheartbeat.com (Price Maxwell)</author>
+      <guid>//localhost:1313/comics/1-not-a-boss/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/comics/1-not-a-boss/featured-1-not-a-boss.jpg" />
+    </item>
+    
+  </channel>
+</rss>

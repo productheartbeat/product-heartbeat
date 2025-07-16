@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documenti on </title>
+    <link>//localhost:1313/it/tags/documenti/</link>
+    <description>Recent content in Documenti on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <copyright>© 2025 </copyright>
+    <atom:link href="//localhost:1313/it/tags/documenti/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Benvenuti a Blowfish</title>
+      <link>//localhost:1313/it/docs/welcome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/it/docs/welcome/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docs/welcome/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Installazione</title>
+      <link>//localhost:1313/it/docs/installation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/it/docs/installation/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docs/installation/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Per iniziare</title>
+      <link>//localhost:1313/it/docs/per-iniziare/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/it/docs/per-iniziare/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docs/getting-started/featured.svg" />
+    </item>
+    
+  </channel>
+</rss>

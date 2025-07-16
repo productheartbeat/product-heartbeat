@@ -1,0 +1,19 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Product Heartbeat"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/ph-icon.png"
+  description = "A very real fake software company"
+
+[params.author]
+  name = "Price Maxwell"
+  email = "dmoon@productheartbeat.com"
+  image = "img/price.png"
+  headline = "A powerful, lightweight theme for Hugo."
+  bio = "A powerful, lightweight theme for Hugo."

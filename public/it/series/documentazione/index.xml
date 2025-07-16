@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentazione on </title>
+    <link>//localhost:1313/it/series/documentazione/</link>
+    <description>Recent content in Documentazione on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/it/series/documentazione/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Benvenuti a Blowfish</title>
+      <link>//localhost:1313/it/docs/welcome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/it/docs/welcome/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docs/welcome/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Installazione</title>
+      <link>//localhost:1313/it/docs/installation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/it/docs/installation/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docs/installation/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Per iniziare</title>
+      <link>//localhost:1313/it/docs/per-iniziare/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/it/docs/per-iniziare/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docs/getting-started/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Configurazione</title>
+      <link>//localhost:1313/it/docs/configurazioni/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/it/docs/configurazioni/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docs/configuration/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Homepage Layout</title>
+      <link>//localhost:1313/it/docs/homepage-layout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/it/docs/homepage-layout/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docs/homepage-layout/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Front Matter</title>
+      <link>//localhost:1313/it/docs/front-matter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/it/docs/front-matter/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docs/front-matter/featured.svg" />
+    </item>
+    
+  </channel>
+</rss>
