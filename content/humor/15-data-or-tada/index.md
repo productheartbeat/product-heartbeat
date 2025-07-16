@@ -1,12 +1,12 @@
 ---
-title: "Lesson 14: Full Stack Developer"
-weight: 14
+title: "Lesson 15: Data or Tada"
+weight: 15
 draft: false
 description: "Learn how easy it is to do product management"
-slug: "full-stack-developer"
+slug: "data-or-tada"
 tags: ["humor"]
 series: ["Product Mangement Made Easy"]
-series_order: 14
+series_order: 15
 ---
 
 Lesson 15: Data or Tada
