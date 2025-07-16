@@ -292,16 +292,6 @@
     </item>
     
     <item>
-      <title>Lesson 14: Full Stack Developer</title>
-      <link>//localhost:1313/humor/full-stack-developer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>dmoon@productheartbeat.com (Price Maxwell)</author>
-      <guid>//localhost:1313/humor/full-stack-developer/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/humor/full-stack-developer/featured.png" />
-    </item>
-    
-    <item>
       <title>Agile buddha</title>
       <link>//localhost:1313/comics/agile-buddha/</link>
       <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
@@ -309,6 +299,16 @@
       <guid>//localhost:1313/comics/agile-buddha/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/comics/agile-buddha/featured-15-agile-buddha.jpg" />
+    </item>
+    
+    <item>
+      <title>Lesson 15: Data or Tada</title>
+      <link>//localhost:1313/humor/data-or-tada/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>dmoon@productheartbeat.com (Price Maxwell)</author>
+      <guid>//localhost:1313/humor/data-or-tada/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/humor/data-or-tada/featured.png" />
     </item>
     
     <item>
