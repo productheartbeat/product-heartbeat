@@ -152,13 +152,13 @@
     </item>
     
     <item>
-      <title>Lesson 14: Full Stack Developer</title>
-      <link>//localhost:1313/humor/full-stack-developer/</link>
+      <title>Lesson 15: Data or Tada</title>
+      <link>//localhost:1313/humor/data-or-tada/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>dmoon@productheartbeat.com (Price Maxwell)</author>
-      <guid>//localhost:1313/humor/full-stack-developer/</guid>
+      <guid>//localhost:1313/humor/data-or-tada/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/humor/full-stack-developer/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/humor/data-or-tada/featured.png" />
     </item>
     
   </channel>
