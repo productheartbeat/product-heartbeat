@@ -1,7 +1,7 @@
 {{ $recentArticles := .Site.Params.homepage.showRecentItems | default 5 }}
 {{ $orderByWeight := .Params.orderByWeight | default ($.Site.Params.list.orderByWeight | default false) }}
 
-<section class="w-full gap-4 flex flex-wrap justify-center md:justify-start">
+<section class="w-full gap-4 flex flex-wrap justify-center">
   {{ $all := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
   {{ $sorted := $all.ByWeight.Reverse }}
   {{ $paginated := .Paginate $sorted }}
