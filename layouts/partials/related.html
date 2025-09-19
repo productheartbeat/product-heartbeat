@@ -2,7 +2,7 @@
   {{ $related := .Site.RegularPages.Related . | first .Site.Params.article.relatedContentLimit }}
   {{ with $related }}
     <h2 class="mt-8 text-2xl font-extrabold mb-10">{{ i18n "article.related_articles" | emojify }}</h2>
-    <section class="w-full gap-4 flex flex-wrap justify-center md:justify-start">
+    <section class="w-full gap-4 flex flex-wrap justify-center">
       {{ range . }}
         {{ partial "article-link/card-related.html" . }}
       {{ end }}

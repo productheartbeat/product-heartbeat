@@ -3,7 +3,7 @@
 
 
 <div class="relative w-screen max-w-[1600px] px-[30px] left-[calc(max(-50vw,-800px)+50%)]">
-  <section class="w-full gap-4 flex flex-wrap justify-center md:justify-start">
+  <section class="w-full gap-4 flex flex-wrap justify-center">
     {{ range first $recentArticles (.Paginate (where .Site.RegularPages "Type" "in"
       .Site.Params.mainSections)).Pages
     }}

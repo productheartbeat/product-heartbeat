@@ -1,0 +1,3 @@
+# Override settings just for development mode
+[term]
+  showHero = false

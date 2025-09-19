@@ -119,7 +119,7 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   cardView = false
 
 [term]
-  showHero = true
+  showHero = false
   heroStyle = "big" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = false
